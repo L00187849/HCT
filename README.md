@@ -14,11 +14,9 @@ The repository is based on the **Electric-Petrol.ie Infrastructure Design** proj
 
 | Folder / File | Description |
 | ------------- | ----------- |
-| [**/Server Hardware**](https://github.com/L00187849/HCT/tree/main/Server%20Hardware) | Server hardware design documentation for the Electric-Petrol.ie infrastructure environment. |
-| [**/Services Infrastructure**](https://github.com/L00187849/HCT/tree/main/Services%20Infrastructure) | Services infrastructure documentation, including Active Directory, DNS, DHCP, NTP, monitoring and BCDR planning. |
-| [**/A3**](https://github.com/L00187849/HCT/tree/main/A3) | Branch cluster upgrade design report and management implementation plan. |
-| [**/A3/A3.md**](https://github.com/L00187849/HCT/blob/main/A3/A3.md) | Industry design report for upgrading branch sites to a three-node Hyper-V cluster with shared storage and Active Directory redesign. |
-| [**/A3/A3_Management_Implementation_Plan.xlsx**](https://github.com/L00187849/HCT/blob/main/A3/A3_Management_Implementation_Plan.xlsx) | Excel management implementation plan for the A3 branch upgrade project. |
+| [**Server Hardware**](https://github.com/L00187849/HCT/tree/main/Server%20Hardware) | Server hardware design documentation for the Electric-Petrol.ie infrastructure environment. |
+| [**Services Infrastructure**](https://github.com/L00187849/HCT/tree/main/Services%20Infrastructure) | Services infrastructure documentation, including Active Directory, DNS, DHCP, NTP, monitoring and BCDR planning. |
+| [**A3**](https://github.com/L00187849/HCT/tree/main/A3) | Branch cluster upgrade design report and management implementation plan. |
 
 ---
 
